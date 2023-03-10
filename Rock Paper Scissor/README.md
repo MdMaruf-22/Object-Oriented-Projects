@@ -1,4 +1,4 @@
-This is a traditional Rock,Paper,Scissor game.
+# This is a traditional Rock,Paper,Scissor game.
 
 User has to play against Computer.
 
