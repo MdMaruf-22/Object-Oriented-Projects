@@ -1,3 +1,3 @@
 # Object-Oriented-Projects
 
-Here I tried to implement some easy projects in Object Oriented Programming Language (Java).
+Here I tried to implement some easy projects(Console Based) in Object Oriented Programming Language (Java).
